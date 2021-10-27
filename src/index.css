@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.content {
+    padding: 80px 0;
+    text-align: center;
+}
+.settings {
+    padding: 80px 0;
+}
+.login {
+    padding: 80px 0;
+}
+.btn-info {
+    color: #fff !important;
+    background-color: #17a2b8 !important;
+    border-color: #17a2b8 !important;
+}
+.btn-info:hover {
+    color: #fff !important;
+    background-color:teal !important;
+}
+.blockquote {
+    color: #6c757d;
+    font-size: 0.90rem !important;
+}
+.blockquote-name {
+    color: #6c757d;
+    font-size: 0.90rem !important;
+    font-style: italic;
+}
